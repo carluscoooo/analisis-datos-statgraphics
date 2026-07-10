@@ -1,13 +1,13 @@
-# Probabilidad y Estadística — Statgraphics
+# Análisis de datos con Statgraphics
 
-Prácticas de **Statgraphics**: ficheros de datos (`.sgd`), proyectos
-(`.SGP`) e informes propios en PDF.
+Prácticas de análisis estadístico con **Statgraphics**: ficheros de datos
+(`.sgd`), proyectos (`.SGP`) e informes en PDF.
 
 ## Contenido
-- **practica-1-estadistica-descriptiva**
-- **practica-2-regresion**
-- **practica-3-comparacion-de-variables**
-- **datos** — conjuntos de datos usados en las prácticas.
+- **estadistica-descriptiva** — estudio descriptivo de variables.
+- **regresion-lineal** — modelos de regresión.
+- **comparacion-de-dos-variables** — intervalos de confianza y contraste de hipótesis.
+- **datos** — conjuntos de datos usados (Mundo 2013, Salarios).
 
 ## Autor
 Carlos Gómez Moreno
